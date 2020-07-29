@@ -21,6 +21,6 @@ service-identity==17.0.0
 six==1.10.0
 txaio==2.10.0
 zope.interface==4.5.0
-uvicorn==0.8.4
+uvicorn==0.11.7
 Pandas==0.25.0
 psycopg2-binary==2.7.7
